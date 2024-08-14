@@ -7,6 +7,8 @@ This project is my take on the Van-De-Graaff Generator.
 It is a device that produces high voltage static electricity using the triboelectric effect.
 I tried to make it as cheap and simple as possible, using mainly components that can be found in any hardware store.
 
+#########Video here##########
+
 ## How it works
 The device works by spinning a belt made of nylon (pantyhose from my moms drawer) around a stationary PVC pipe.
 This rubbing action creates a positive charge on the PVC pipe, this charge is then transferred to a metal sphere on top of the device via a closeby brush.
@@ -105,7 +107,9 @@ If you went the DIY route, this is the most difficult part.
 <img src="images/9.jpg" alt="9" height="280">
 
 :warning:    :warning:    :electric_plug:    :warning:     :warning: 
+
 Warning: This parts includes mains voltage, if you are not a experienced electrician, skip this part and use a bench power supply instead.
+
 :warning:    :warning:    :electric_plug:    :warning:     :warning: 
 
 4. Attach the motor controller to the base plate
@@ -146,3 +150,12 @@ If you bring your hand close to the top sphere and feel a shock, it works!
 <img src="images/12.jpg" alt="12" height="280">
 
 
+## Fine tuning
+1. If the belt is too loose, you can try moving to rollers apart or shorten the belt.
+2. Make sure to adjust the brushes so they are close to the belt (they dont have to touch it), but keep them oriented in the direction of the belt so that they dont catch on the seams.
+<img src="images/13.jpg" alt="13" height="260">
+3. Set the motor speed so that it has enough torque to spin the belt (more speed = more charge, but more wear on the belt)
+4. Connect the bottom brush to ground or to the optional ground ball.
+5. Remove any shap edges on the sphere to prevent corona discharge.
+
+I was able to achive 5-6cm sparks with this setup (around 150-200kV), but I have not spent much time tweaking it, so you might be able to get more out of it.
