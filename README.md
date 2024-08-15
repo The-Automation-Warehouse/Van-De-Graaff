@@ -2,7 +2,7 @@
 
 Made as part of Arcade Hack Club
 
-Used github copilot when writing README
+Used github copilot and Codeium when writing README
 
 <img src="images/Finished1.jpg" alt="Finished project image" height="280">
 <img src="images/Finished2.jpg" alt="Finished project image" height="280">
@@ -116,8 +116,8 @@ Warning: This parts includes mains voltage, if you are not a experienced electri
 
 :warning:    :warning:    :electric_plug:    :warning:     :warning: 
 
-4. Attach the motor controller to the base plate
-5. Attach power supply and C13 socket to the base plate
+4. Attach the motor controller to the base plate with the printed mount
+5. Attach power supply and C13 socket to the base plate with the printed mounts (you might need a different mount for you PSU)
 6. Connect everything together as schematics show exept for the motor
 <img src="images/Schematic.png" alt="Schematic" height="200">
 
