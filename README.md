@@ -4,8 +4,8 @@ Made as part of Arcade Hack Club
 
 Used github copilot and Codeium when writing README
 
-<img src="images/Finished1.jpg" alt="Finished project image" height="280">
-<img src="images/Finished2.jpg" alt="Finished project image" height="280">
+<img src="images/Finished1.jpg" alt="Finished project image" height="320">
+<img src="images/Finished2.jpg" alt="Finished project image" height="320">
 
 This project is my take on the Van-De-Graaff Generator. 
 It is a device that produces high voltage static electricity using the triboelectric effect.
@@ -32,13 +32,14 @@ For the generator itself:
 - some wire for the brushes
 - a small motor (I used a 6V DC motor running at 12V to get enough torque)
 - a 12V power supply
+- 100x380x4mm wood board
 - DC motor controller
 - C13 socket
 - 150cm of M8 threaded rod
 - 2x M8 Lock nuts
 - 2x20 Hardened steel pin
-- Some M3 screws
-- some threaded inserts
+- Some M3 and M5 screws
+- some M3 threaded inserts
 - 2 608 bearings
 
 
@@ -163,3 +164,6 @@ If you bring your hand close to the top sphere and feel a shock, it works!
 5. Remove any shap edges on the sphere to prevent corona discharge.
 
 I was able to achive 5-6cm sparks with this setup (around 150-200kV), but I have not spent much time tweaking it, so you might be able to get more out of it.
+
+
+## Enjoy your new Van-De-Graaff Generator!
