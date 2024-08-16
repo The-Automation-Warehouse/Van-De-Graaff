@@ -11,7 +11,11 @@ This project is my take on the Van-De-Graaff Generator.
 It is a device that produces high voltage static electricity using the triboelectric effect.
 I tried to make it as cheap and simple as possible, using mainly components that can be found in any hardware store.
 
-#########Video here##########
+
+
+https://github.com/user-attachments/assets/875eb0bf-50af-4306-b3f1-5c72dd3f4fa9
+
+
 
 ## How it works
 The device works by spinning a belt made of nylon (pantyhose from my moms drawer) around a stationary PVC pipe.
